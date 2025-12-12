@@ -1028,5 +1028,5 @@ const questions = [
 "question":"Which option confirms recovery?",
 "options":["normal urine output","dry mouth","sunken eyes","rapid pulse","low BP"],
 "answer":0
-},
+}
 ];
